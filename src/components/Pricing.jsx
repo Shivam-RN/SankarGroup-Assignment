@@ -48,7 +48,6 @@ function Pricing({ onPlanSelect }) {
             );
           })}
         </div>
-        <p className="mt-7 text-center text-xs text-slate-400">Illustrative pricing for this landing-page assignment. No payment processing is connected.</p>
       </div>
     </section>
   );
